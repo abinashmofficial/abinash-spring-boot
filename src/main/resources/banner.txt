@@ -1,0 +1,12 @@
+${AnsiColor.BRIGHT_CYAN}
+    ___    ____  ____ _   _____    _____ __  __
+   /   |  / __ )/  _// | / /   |  / ___// / / /
+${AnsiColor.BRIGHT_MAGENTA}  / /| | / __  |/ / /  |/ / /| |  \__ \/ /_/ / 
+ / ___ |/ /_/ // / / /|  / ___ | ___/ / __  /  
+${AnsiColor.BRIGHT_BLUE}/_/  |_/_____/___//_/ |_/_/  |_|/____/_/ /_/   
+${AnsiColor.DEFAULT}
+  ${AnsiColor.BRIGHT_BLACK}──────────────────────────────────────────────────────────────${AnsiColor.DEFAULT}
+  ${AnsiColor.BRIGHT_YELLOW}◈${AnsiColor.DEFAULT}  ${AnsiStyle.BOLD}PLATFORM :${AnsiColor.DEFAULT}  Abinash Engine v1.0.0  ${AnsiColor.BRIGHT_GREEN}[READY]${AnsiColor.DEFAULT}
+  ${AnsiColor.BRIGHT_CYAN}◈${AnsiColor.DEFAULT}  ${AnsiStyle.BOLD}RUNTIME  :${AnsiColor.DEFAULT}  Java v${java.version}  (Universal: 8, 11, 17, 21+)
+  ${AnsiColor.BRIGHT_MAGENTA}◈${AnsiColor.DEFAULT}  ${AnsiStyle.BOLD}GATEWAY  :${AnsiColor.DEFAULT}  http://localhost:8080/
+  ${AnsiColor.BRIGHT_BLACK}──────────────────────────────────────────────────────────────${AnsiColor.DEFAULT}
